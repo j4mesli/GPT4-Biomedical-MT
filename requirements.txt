@@ -14,7 +14,7 @@ protobuf==4.25.3
 pyasn1==0.6.0
 pyasn1_modules==0.4.0
 python-dotenv==1.0.1
-requests==2.31.0
+requests==2.32.2
 rsa==4.9
 urllib3==2.2.1
 annotated-types==0.6.0
@@ -78,7 +78,7 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.1
 regex==2023.12.25
-requests==2.31.0
+requests==2.32.2
 rsa==4.9
 sacrebleu==2.4.2
 sacremoses==0.1.1
